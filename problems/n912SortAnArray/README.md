@@ -1,4 +1,4 @@
-# 1. 912. Sort an Array
+# 912. Sort an Array
 Difficulty : medium
 <br>
 [link to problem](https://leetcode.com/problems/sort-an-array/)

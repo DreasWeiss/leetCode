@@ -1,8 +1,11 @@
 # LeetCode Problems
 [My leetCode profile](https://leetcode.com/DreasWeiss/)
 
+Finished **6** problems
+
 |num|problem link|difficulty|language|path|my solution|
 |---|----|---|---|---|---|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|easy|JS|[path](./problems/mergeTwoSortedLists/)|[solution](./problems/mergeTwoSortedLists/problem.js)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|easy|JS|[path](./problems/romanToInteger/)|[solution](./problems/romanToInteger/problem.js)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|easy|JS|[path](./problems/n9PalindromeNumber/)|[solution](./problems/n9PalindromeNumber/problem.js)|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|medium|JS|[path](./problems/n912SortAnArray/)|[solution](./problems/n912SortAnArray/problem.js)|

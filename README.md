@@ -3,6 +3,7 @@
 
 |num|problem link|difficulty|language|path|my solution|
 |---|----|---|---|---|---|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|easy|JS|[path](./problems/romanToInteger/)|[solution](./problems/romanToInteger/problem.js)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|easy|JS|[path](./problems/n9PalindromeNumber/)|[solution](./problems/n9PalindromeNumber/problem.js)|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|medium|JS|[path](./problems/n912SortAnArray/)|[solution](./problems/n912SortAnArray/problem.js)|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|easy|JS|[path](./problems/n1TwoSum)|[solution](./problems/n1TwoSum/problem.js)|

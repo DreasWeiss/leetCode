@@ -1,10 +1,11 @@
 # LeetCode Problems
 [My leetCode profile](https://leetcode.com/DreasWeiss/)
 
-Finished **7** problems
+Finished **8** problems
 
 |num|problem link|difficulty|language|path|my solution|
 |---|----|---|---|---|---|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|easy|JS|[path](./problems/n88MergeSortedArray/)|[solution](./problems/n88MergeSortedArray/problem.js)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|easy|JS|[path](./problems/n20ValidParentheses/)|[solution](./problems/n20ValidParentheses/problem.js)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|easy|JS|[path](./problems/n21MergeTwoSortedLists/)|[solution](./problems/n21MergeTwoSortedLists/problem.js)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|easy|JS|[path](./problems/n13RomanToInteger/)|[solution](./problems/n13RomanToInteger/problem.js)|

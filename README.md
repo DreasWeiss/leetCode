@@ -1,10 +1,11 @@
 # LeetCode Problems
 [My leetCode profile](https://leetcode.com/DreasWeiss/)
 
-Finished **8** problems
+Finished **9** problems
 
 |num|problem link|difficulty|language|path|my solution|
 |---|----|---|---|---|---|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|easy|JS|[path](./problems/n88MergeSortedArray/)|[solution](./problems/n88MergeSortedArray/problem.js)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|easy|JS|[path](./problems/n88MergeSortedArray/)|[solution](./problems/n88MergeSortedArray/problem.js)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|easy|JS|[path](./problems/n20ValidParentheses/)|[solution](./problems/n20ValidParentheses/problem.js)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|easy|JS|[path](./problems/n21MergeTwoSortedLists/)|[solution](./problems/n21MergeTwoSortedLists/problem.js)|

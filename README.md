@@ -1,6 +1,8 @@
 # LeetCode Problems
 [My leetCode profile](https://leetcode.com/DreasWeiss/)
 
+[30 Days of JavaScript](./30DaysOfJavascript/README.md)
+
 Solved **10** problems
 
 |num|problem link|difficulty|language|path|my solution|

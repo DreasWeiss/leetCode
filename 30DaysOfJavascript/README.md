@@ -12,6 +12,12 @@
 ## Basic Array Transformations
 |#|task|difficulty|my solition|
 |---|---|---|---|
-|2635|[Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/closures/2635ApplyTransformOverEachElementInArray.js)|
-|2634|[Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/closures/2634FilterElementsFromArray.js)|
-|2626|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/closures/2634FilterElementsFromArray.js)|
+|2635|[Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/basicArrayTransformations/2635ApplyTransformOverEachElementInArray.js)|
+|2634|[Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/basicArrayTransformations/2634FilterElementsFromArray.js)|
+|2626|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/basicArrayTransformations/2634FilterElementsFromArray.js)|
+
+
+## Function Transformations
+|#|task|difficulty|my solition|
+|---|---|---|---|
+|2629|[Function Composition](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/closures/2629FunctionComposition.js)|

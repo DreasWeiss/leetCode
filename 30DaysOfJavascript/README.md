@@ -22,3 +22,4 @@
 |---|---|---|---|
 |2629|[Function Composition](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/closures/2629FunctionComposition.js)|
 |2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/closures/2703ReturnLengthOfArgumentsPassed.js)|
+|2666|[Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)|easy|[solution](./tasks/closures/2666AllowOneFunctionCall.js)|
